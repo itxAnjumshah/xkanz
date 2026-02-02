@@ -30,3 +30,4 @@ python -m http.server 8080 -d "d:\Html projects\xkanz"; Start-Process http://loc
 
 - Content and design are original; no third‑party assets are copied.
 - This prototype focuses on UX and visual design to kickstart development.
+-Hello Xkanz  
